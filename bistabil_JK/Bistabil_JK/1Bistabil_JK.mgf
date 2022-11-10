@@ -1,0 +1,30 @@
+V 000052 55 1242          1651746667997 Bistabil_JK
+(_unit VHDL (bistabil_jk 0 4 (bistabil_jk 0 9 ))
+  (_version v33)
+  (_time 1651746667997 2022.05.05 13:31:07)
+  (_source (\./src/Bistabil_JK.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651746667976)
+    (_use )
+  )
+  (_object
+    (_port (_internal J ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal K ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in )(_event))))
+    (_port (_internal Q ~extieee.std_logic_1164.std_logic 0 6 (_entity (_out ))))
+    (_port (_internal BQ ~extieee.std_logic_1164.std_logic 0 6 (_entity (_out ))))
+    (_variable (_internal semnal_pt_Q ~extieee.std_logic_1164.std_logic 0 12 (_process 0 )))
+    (_process
+      (line__11(_architecture 0 0 11 (_process (_simple)(_target(4)(3))(_sensitivity(2))(_read(1)(0)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . Bistabil_JK 1 -1
+  )
+)

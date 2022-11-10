@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\Intarziere\Intarziere\src\numarator_intarziere.vhd" 
+MESSAGE "Compile Entity "INTARZIERE"" 
+MESSAGE "Entity `INTARZIERE' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "INTARZIERE" of Entity "INTARZIERE"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=CAUTARE_ETAJ
+
+[Library]
+CAUTARE_ETAJ=.\CAUTARE_ETAJ.lib
+
+[$LibMap$]
+CAUTARE_ETAJ=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/CAUTARE_ETAJ.vhd=-1
+
+[Files.Data]
+.\src\CAUTARE_ETAJ.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

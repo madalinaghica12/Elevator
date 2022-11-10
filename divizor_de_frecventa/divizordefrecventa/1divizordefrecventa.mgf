@@ -1,0 +1,38 @@
+V 000061 55 1816          1651946027835 DIVIZOR_DE_FRECVENTA
+(_unit VHDL (divizor_de_frecventa 0 5 (divizor_de_frecventa 0 11 ))
+  (_version v33)
+  (_time 1651946027834 2022.05.07 20:53:47)
+  (_source (\./src/DIVIZOR_DE_FECVENTA.vhd\))
+  (_use (std(standard))(ieee(std_logic_unsigned))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651945976886)
+    (_use )
+  )
+  (_object
+    (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in )(_active)(_lastactive)(_event)(_lastevent)(_edge))))
+    (_port (_internal RESET ~extieee.std_logic_1164.std_logic 0 7 (_entity (_in ))))
+    (_port (_internal DIVIZOR ~extieee.std_logic_1164.std_logic 0 8 (_entity (_out ))))
+    (_type (_internal ~std_logic_vector{27~downto~0}~13 0 13 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 27)(i 0))))))
+    (_signal (_internal NUMARATOR ~std_logic_vector{27~downto~0}~13 0 13 (_architecture (_uni ))))
+    (_process
+      (line__17(_architecture 0 0 17 (_process (_simple)(_target(3))(_sensitivity(0)(1))(_read(3)))))
+      (line__30(_architecture 1 0 30 (_assignment (_simple)(_target(2))(_sensitivity(3)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+    (_type (_external ~extieee.std_logic_1164.std_logic_vector (ieee std_logic_1164 std_logic_vector)))
+  )
+  (_static
+    (2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 )
+    (2 3 2 3 3 3 3 3 2 3 2 3 3 3 3 2 2 2 2 2 3 3 3 3 3 3 3 3 )
+    (2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 )
+    (2 2 2 2 2 2 3 )
+    (2 3 2 3 3 3 3 3 2 3 2 3 3 3 3 2 2 2 2 2 3 3 3 3 3 3 3 3 )
+  )
+  (_model . DIVIZOR_DE_FRECVENTA 2 -1
+  )
+)

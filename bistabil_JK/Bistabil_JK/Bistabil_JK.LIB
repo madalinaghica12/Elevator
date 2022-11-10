@@ -1,0 +1,23 @@
+timestamp=1651746668068
+
+[bistabil_jk]
+A/bistabil_jk=A/Bistabil_JK 21|./src/Bistabil_JK.vhd|9|1*0
+B/bistabil_jk=3*0
+H/bistabil_jk=0*297
+R=./src/Bistabil_JK.vhd|4
+V=0*1393
+
+[~A]
+./src/Bistabil_JK.vhd~Bistabil_JK=0*0*224
+./src/Bistabil_JK.vhd~Bistabil_JKBistabil_JK=0*394*832
+ModifyID=7
+Version=73
+
+[~MFT]
+0=7|0Bistabil_JK.mgf|1393|0
+1=0|1Bistabil_JK.mgf|0|0
+3=0|3Bistabil_JK.mgf|0|0
+
+[~U]
+bistabil_jk=Bistabil_JK 11|0*916|0*1119
+

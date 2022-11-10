@@ -1,0 +1,6 @@
+MESSAGE "File: c:\My_Designs\bistabil_JK\Bistabil_JK\src\Bistabil_JK.vhd" 
+MESSAGE "Compile Entity "Bistabil_JK"" 
+MESSAGE "Compile Architecture "Bistabil_JK" of Entity "Bistabil_JK"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   Bistabil_JK" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\bistabil_JK\library.cfg"  -j "c:\My_Designs\bistabil_JK\Bistabil_JK\projlib.cfg"  -d "c:\My_Designs\bistabil_JK\Bistabil_JK\compile\"  -work Bistabil_JK -dbg -e 100 -o "c:\My_Designs\bistabil_JK\Bistabil_JK\src\Bistabil_JK.vhd" 

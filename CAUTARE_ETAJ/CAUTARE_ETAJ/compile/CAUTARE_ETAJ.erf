@@ -1,0 +1,6 @@
+MESSAGE "File: c:\My_Designs\CAUTARE_ETAJ\CAUTARE_ETAJ\src\CAUTARE_ETAJ.vhd" 
+MESSAGE "Compile Entity "CAUTARE_ETAJ"" 
+MESSAGE "Entity `CAUTARE_ETAJ' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "CAUTARE_ETAJ" of Entity "CAUTARE_ETAJ"" 
+WARNING ELAB1_0026: "There is no default binding for component "NUMARATOR_BIDIRECT".(No entity named "NUMARATOR_BIDIRECT" was found)." "c:\My_Designs\CAUTARE_ETAJ\CAUTARE_ETAJ\src\CAUTARE_ETAJ.vhd" 43 0
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [s]" 

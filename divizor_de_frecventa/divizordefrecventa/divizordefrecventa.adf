@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=divizordefrecventa
+
+[Library]
+divizordefrecventa=.\divizordefrecventa.lib
+
+[$LibMap$]
+divizordefrecventa=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/DIVIZOR_DE_FECVENTA.vhd=-1
+
+[Files.Data]
+.\src\DIVIZOR_DE_FECVENTA.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

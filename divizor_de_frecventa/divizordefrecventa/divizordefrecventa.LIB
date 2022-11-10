@@ -1,0 +1,23 @@
+timestamp=1651946027940
+
+[divizor_de_frecventa]
+A/divizor_de_frecventa=A/DIVIZOR_DE_FRECVENTA 21|./src/DIVIZOR_DE_FECVENTA.vhd|11|1*0
+B/divizor_de_frecventa=3*0
+H/divizor_de_frecventa=0*1268
+R=./src/DIVIZOR_DE_FECVENTA.vhd|5
+V=0*892
+
+[~A]
+./src/DIVIZOR_DE_FECVENTA.vhd~DIVIZOR_DE_FRECVENTA=0*0*309
+./src/DIVIZOR_DE_FECVENTA.vhd~DIVIZOR_DE_FRECVENTADIVIZOR_DE_FRECVENTA=0*1947*2454
+ModifyID=7
+Version=73
+
+[~MFT]
+0=7|0divizordefrecventa.mgf|2454|0
+1=0|1divizordefrecventa.mgf|0|0
+3=0|3divizordefrecventa.mgf|0|0
+
+[~U]
+divizor_de_frecventa=DIVIZOR_DE_FRECVENTA 11|0*399|0*601
+

@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\divizor_de_frecventa\divizordefrecventa\src\DIVIZOR_DE_FECVENTA.vhd" 
+MESSAGE "Compile Entity "DIVIZOR_DE_FRECVENTA"" 
+MESSAGE "Entity `DIVIZOR_DE_FRECVENTA' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "DIVIZOR_DE_FRECVENTA" of Entity "DIVIZOR_DE_FRECVENTA"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

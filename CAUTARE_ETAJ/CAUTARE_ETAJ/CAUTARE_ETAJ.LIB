@@ -1,0 +1,23 @@
+timestamp=1652477508132
+
+[cautare_etaj]
+A/cautare_etaj=A/CAUTARE_ETAJ 21|./src/CAUTARE_ETAJ.vhd|19|1*0
+B/cautare_etaj=3*0
+H/cautare_etaj=0*3791
+R=./src/CAUTARE_ETAJ.vhd|4
+V=0*1813
+
+[~A]
+./src/CAUTARE_ETAJ.vhd~CAUTARE_ETAJ=0*0*565
+./src/CAUTARE_ETAJ.vhd~CAUTARE_ETAJCAUTARE_ETAJ=0*6686*7637
+ModifyID=7
+Version=73
+
+[~MFT]
+0=7|0CAUTARE_ETAJ.mgf|7637|0
+1=0|1CAUTARE_ETAJ.mgf|0|0
+3=0|3CAUTARE_ETAJ.mgf|0|0
+
+[~U]
+cautare_etaj=CAUTARE_ETAJ 11|0*640|0*1099
+

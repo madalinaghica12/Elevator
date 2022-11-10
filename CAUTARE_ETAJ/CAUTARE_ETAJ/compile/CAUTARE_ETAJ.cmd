@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\CAUTARE_ETAJ\library.cfg"  -j "c:\My_Designs\CAUTARE_ETAJ\CAUTARE_ETAJ\projlib.cfg"  -d "c:\My_Designs\CAUTARE_ETAJ\CAUTARE_ETAJ\compile\"  -work CAUTARE_ETAJ -dbg -e 100 "c:\My_Designs\CAUTARE_ETAJ\CAUTARE_ETAJ\src\CAUTARE_ETAJ.vhd" 
