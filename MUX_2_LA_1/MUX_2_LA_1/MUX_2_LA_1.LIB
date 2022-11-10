@@ -1,0 +1,23 @@
+timestamp=1653032129731
+
+[mux_2_la_1]
+A/mux_2_la_1=A/MUX_2_LA_1 21|./src/MUX_2_LA_1.vhd|11|1*1582
+B/mux_2_la_1=3*0
+H/mux_2_la_1=0*3537
+R=./src/MUX_2_LA_1.vhd|4
+V=0*4681
+
+[~A]
+./src/MUX_2_LA_1.vhd~MUX_2_LA_1=0*3165*3466
+./src/MUX_2_LA_1.vhd~MUX_2_LA_1MUX_2_LA_1=0*3632*3854
+ModifyID=21
+Version=73
+
+[~MFT]
+0=23|0MUX_2_LA_1.mgf|4681|3165
+1=2|1MUX_2_LA_1.mgf|1582|1582
+3=0|3MUX_2_LA_1.mgf|0|0
+
+[~U]
+mux_2_la_1=11|0*3935|0*4147
+

@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\selectie_viteza\library.cfg"  -j "c:\My_Designs\selectie_viteza\selectie_viteza\projlib.cfg"  -d "c:\My_Designs\selectie_viteza\selectie_viteza\compile\"  -work selectie_viteza -dbg -e 100 -o "c:\My_Designs\selectie_viteza\selectie_viteza\src\selectie_viteza.vhd" 

@@ -1,0 +1,28 @@
+V 000051 55 1077          1653026290363 behavioral
+(_unit VHDL (sel_viteza 0 8 (behavioral 0 21 ))
+  (_version v33)
+  (_time 1653026290362 2022.05.20 08:58:10)
+  (_source (\./src/selectie_viteza.vhd\))
+  (_use (std(standard))(ieee(std_logic_unsigned))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1653026290347)
+    (_use )
+  )
+  (_object
+    (_port (_internal V0 ~extieee.std_logic_1164.std_logic 0 11 (_entity (_in ))))
+    (_port (_internal V1 ~extieee.std_logic_1164.std_logic 0 11 (_entity (_in ))))
+    (_port (_internal F ~extieee.std_logic_1164.std_logic 0 13 (_entity (_out ))))
+    (_port (_internal sl ~extieee.std_logic_1164.std_logic 0 15 (_entity (_in ))))
+    (_process
+      (line__26(_architecture 0 0 26 (_process (_simple)(_target(2))(_sensitivity(0)(3)(1)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . behavioral 1 -1
+  )
+)

@@ -1,0 +1,64 @@
+I 000051 55 1531          1651949277733 MUX_2_LA_1
+(_unit VHDL (mux_2_la_1 0 4 (mux_2_la_1 0 11 ))
+  (_version v33)
+  (_time 1651949277732 2022.05.07 21:47:57)
+  (_source (\./src/MUX_2_LA_1.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651949277726)
+    (_use )
+  )
+  (_object
+    (_type (_internal ~std_logic_vector{3~downto~0}~12 0 5 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal A0 ~std_logic_vector{3~downto~0}~12 0 5 (_entity (_in ))))
+    (_type (_internal ~std_logic_vector{3~downto~0}~122 0 6 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal A1 ~std_logic_vector{3~downto~0}~122 0 6 (_entity (_in ))))
+    (_port (_internal S ~extieee.std_logic_1164.std_logic 0 7 (_entity (_in ))))
+    (_type (_internal ~std_logic_vector{3~downto~0}~124 0 8 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal Y ~std_logic_vector{3~downto~0}~124 0 8 (_entity (_out ))))
+    (_process
+      (line__15(_architecture 0 0 15 (_process (_simple)(_target(3))(_sensitivity(0)(1)(2)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+    (_type (_external ~extieee.std_logic_1164.std_logic_vector (ieee std_logic_1164 std_logic_vector)))
+  )
+  (_model . MUX_2_LA_1 1 -1
+  )
+)
+V 000051 55 1529          1653032129651 MUX_2_LA_1
+(_unit VHDL (mux_2_la_1 0 4 (mux_2_la_1 0 11 ))
+  (_version v33)
+  (_time 1653032129650 2022.05.20 10:35:29)
+  (_source (\./src/MUX_2_LA_1.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1653032129643)
+    (_use )
+  )
+  (_object
+    (_type (_internal ~std_logic_vector{3~downto~0}~12 0 5 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal A ~std_logic_vector{3~downto~0}~12 0 5 (_entity (_in ))))
+    (_type (_internal ~std_logic_vector{3~downto~0}~122 0 6 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal b ~std_logic_vector{3~downto~0}~122 0 6 (_entity (_in ))))
+    (_port (_internal S ~extieee.std_logic_1164.std_logic 0 7 (_entity (_in ))))
+    (_type (_internal ~std_logic_vector{3~downto~0}~124 0 8 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal Y ~std_logic_vector{3~downto~0}~124 0 8 (_entity (_out ))))
+    (_process
+      (line__15(_architecture 0 0 15 (_process (_simple)(_target(3))(_sensitivity(0)(2)(1)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+    (_type (_external ~extieee.std_logic_1164.std_logic_vector (ieee std_logic_1164 std_logic_vector)))
+  )
+  (_model . MUX_2_LA_1 1 -1
+  )
+)

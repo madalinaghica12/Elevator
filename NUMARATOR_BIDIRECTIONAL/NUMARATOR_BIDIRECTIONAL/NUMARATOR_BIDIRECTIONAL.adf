@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=NUMARATOR_BIDIRECTIONAL
+
+[Library]
+NUMARATOR_BIDIRECTIONAL=.\NUMARATOR_BIDIRECTIONAL.lib
+
+[$LibMap$]
+NUMARATOR_BIDIRECTIONAL=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/NUMARATOR_BIDIRECTIONAL.vhd=-1
+
+[Files.Data]
+.\src\NUMARATOR_BIDIRECTIONAL.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

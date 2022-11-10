@@ -1,0 +1,23 @@
+timestamp=1653311763319
+
+[lift]
+A/lift=A/LIFT 21|./src/lift.vhd|23|1*18731
+B/lift=3*0
+H/lift=0*27236
+R=./src/lift.vhd|5
+V=0*24687
+
+[~A]
+./src/lift.vhd~LIFT=0*0*623
+./src/lift.vhd~LIFTLIFT=0*44773*49848
+ModifyID=13
+Version=73
+
+[~MFT]
+0=13|0liftul.mgf|49848|22675
+1=2|1liftul.mgf|18731|18731
+3=0|3liftul.mgf|0|0
+
+[~U]
+lift=LIFT 11|0*23357|0*23832
+

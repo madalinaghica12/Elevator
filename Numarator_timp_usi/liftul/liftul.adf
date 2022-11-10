@@ -1,0 +1,32 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+[Configurations]
+compile=liftul
+[Library]
+liftul=.\liftul.lib
+[$LibMap$]
+liftul=.
+Active_lib=
+[Settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+REFRESH_FLOW=1
+HESPrepare=0
+[IMPLEMENTATION]
+UCF=
+[Files]
+/lift.vhd=-1
+[Files.Data]
+.\src\lift.vhd=VHDL Source Code
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=lift|lift|0 
+ShowHide=ShowTopLevel
+Selected=

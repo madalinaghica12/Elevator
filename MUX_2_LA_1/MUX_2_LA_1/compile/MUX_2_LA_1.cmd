@@ -1,0 +1,1 @@
+-w -s "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\library.cfg"  -j "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\MUX_2_LA_1\projlib.cfg"  -d "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\MUX_2_LA_1\compile\"  -work MUX_2_LA_1 -dbg -e 100 "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\MUX_2_LA_1\src\MUX_2_LA_1.vhd" 

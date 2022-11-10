@@ -1,0 +1,37 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+[Configurations]
+compile=BIST_JK
+[Library]
+BIST_JK=.\BIST_JK.lib
+[$LibMap$]
+BIST_JK=.
+Active_lib=
+[Settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+REFRESH_FLOW=1
+HESPrepare=0
+[IMPLEMENTATION]
+UCF=
+[Files]
+/bistabil_jk.adf=-1
+[Files.Data]
+.\src\bistabil_jk.adf=Active HDL design
+[Folders]
+Name3=Makefiles
+Directory3=C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\BIST_JK\
+Extension3=mak
+Name4=Memory
+Directory4=C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\BIST_JK\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\BIST_JK\
+Extension5=dll

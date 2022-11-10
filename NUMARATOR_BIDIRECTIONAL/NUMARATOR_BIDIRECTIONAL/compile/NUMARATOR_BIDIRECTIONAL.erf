@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\NUMARATOR_BIDIRECTIONAL\NUMARATOR_BIDIRECTIONAL\src\NUMARATOR_BIDIRECTIONAL.vhd" 
+MESSAGE "Compile Entity "NUMARATOR_BIDIRECT"" 
+MESSAGE "Entity `NUMARATOR_BIDIRECT' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "NUMARATOR_BIDIRECT" of Entity "NUMARATOR_BIDIRECT"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

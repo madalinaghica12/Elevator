@@ -1,0 +1,18 @@
+MESSAGE "File: c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 
+MESSAGE "Compile Entity "LIFT"" 
+MESSAGE "Entity `LIFT' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "LIFT" of Entity "LIFT"" 
+WARNING ELAB1_0026: "There is no default binding for component "Unitate_de_comanda".(No entity named "Unitate_de_comanda" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 170 0
+WARNING ELAB1_0026: "There is no default binding for component "UNITATE_DE_DECIZIE".(No entity named "UNITATE_DE_DECIZIE" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 182 0
+WARNING ELAB1_0026: "There is no default binding for component "unitatea_de_memorare".(No entity named "unitatea_de_memorare" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 184 0
+WARNING ELAB1_0026: "There is no default binding for component "CAUTARE_ETAJ".(No entity named "CAUTARE_ETAJ" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 186 0
+WARNING ELAB1_0026: "There is no default binding for component "INCREMENTARE_DECREMENTARE".(No entity named "INCREMENTARE_DECREMENTARE" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 188 0
+WARNING ELAB1_0026: "There is no default binding for component "UNITATE_DE_DIRECTIE".(No entity named "UNITATE_DE_DIRECTIE" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 189 0
+WARNING ELAB1_0026: "There is no default binding for component "TIMP".(No entity named "TIMP" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 190 0
+WARNING ELAB1_0026: "There is no default binding for component "SENZORI".(No entity named "SENZORI" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 191 0
+WARNING ELAB1_0026: "There is no default binding for component "UNITATE_DE_INTARZIERE".(No entity named "UNITATE_DE_INTARZIERE" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 192 0
+WARNING ELAB1_0026: "There is no default binding for component "DIVIZOR_DE_FRECVENTA".(No entity named "DIVIZOR_DE_FRECVENTA" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 193 0
+WARNING ELAB1_0026: "There is no default binding for component "DIVIZOR".(No entity named "DIVIZOR" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 194 0
+WARNING ELAB1_0026: "There is no default binding for component "sel_viteza".(No entity named "sel_viteza" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 195 0
+WARNING ELAB1_0026: "There is no default binding for component "AFISOR".(No entity named "AFISOR" was found)." "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 196 0
+SUCCESS "Compile success 0 Errors 13 Warnings  Analysis time :  0.0 [s]" 

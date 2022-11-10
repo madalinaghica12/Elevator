@@ -1,0 +1,1 @@
+-w -s "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\library.cfg"  -j "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\projlib.cfg"  -d "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\compile\"  -work liftul -dbg -e 100 "c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd" 

@@ -1,0 +1,9 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\MUX_2_LA_1.aws" design added.
+acom $DSN/src/MUX_2_LA_1.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\MUX_2_LA_1\src\MUX_2_LA_1.vhd
+# Compile Entity "MUX_2_LA_1"
+# Compile Architecture "MUX_2_LA_1" of Entity "MUX_2_LA_1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

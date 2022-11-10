@@ -1,0 +1,29 @@
+V 000048 55 1206          1652478071196 SENZORI
+(_unit VHDL (senzori 0 4 (senzori 0 11 ))
+  (_version v33)
+  (_time 1652478071196 2022.05.14 00:41:11)
+  (_source (\./src/SENZOR.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1652478071192)
+    (_use )
+  )
+  (_object
+    (_port (_internal SENZOR_PERSOANA ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal SENZOR_GREUTATE ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal DESCHIS ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_port (_internal LED_GREUTATE ~extieee.std_logic_1164.std_logic 0 8 (_entity (_out ))))
+    (_process
+      (line__14(_architecture 0 0 14 (_assignment (_simple)(_alias((LED_GREUTATE)(SENZOR_GREUTATE)))(_target(3))(_sensitivity(1)))))
+      (line__15(_architecture 1 0 15 (_assignment (_simple)(_target(2))(_sensitivity(1)(0)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . SENZORI 2 -1
+  )
+)

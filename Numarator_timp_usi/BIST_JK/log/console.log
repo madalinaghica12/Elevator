@@ -1,0 +1,251 @@
+# Design: Design "numarator_usi" has been set as active.
+acom $DSN/src/UNIT_TIMP.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\UNIT_TIMP.vhd
+# Compile Entity "TIMP"
+# Compile Architecture "TIMP" of Entity "TIMP"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# Design: 14:57, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\My_Designs\cod_lift\lift\lift.adf"
+acom $DSN/src/lift.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\lift.vhd
+# Compile Entity "LIFT"
+# Compile Architecture "LIFT" of Entity "LIFT"
+# Error: COMP96_0111: lift.vhd : (38, 15): Labels do not match.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/lift.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\lift.vhd
+# Compile Entity "LIFT"
+# Entity `LIFT' has been skipped - no difference detected.
+# Compile Architecture "LIFT" of Entity "LIFT"
+# Error: COMP96_0111: lift.vhd : (38, 15): Labels do not match.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+# Design: 14:58, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\bistabil_JK\Bistabil_JK\Bistabil_JK.adf"
+# Design: 14:59, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\CAUTARE_ETAJ\CAUTARE_ETAJ\CAUTARE_ETAJ.adf"
+# Design: 15:00, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\divizor_de_frecventa\divizordefrecventa\divizordefrecventa.adf"
+# Design: 15:00, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\INCREMENTARE_DECREMENTARE\INCREMENAATARE_DECREMENTARE\INCREMENAATARE_DECREMENTARE.adf"
+# Design: 15:01, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\NUMARATOR_BIDIRECTIONAL\NUMARATOR_BIDIRECTIONAL\NUMARATOR_BIDIRECTIONAL.adf"
+acom $DSN/src/NUMARATOR_BIDIRECTIONAL.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\NUMARATOR_BIDIRECTIONAL.vhd
+# Compile Entity "NUMARATOR_BIDIRECT"
+# Compile Architecture "NUMARATOR_BIDIRECT" of Entity "NUMARATOR_BIDIRECT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CAUTARE_ETAJ.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\CAUTARE_ETAJ.vhd
+# Compile Entity "CAUTARE_ETAJ"
+# Compile Architecture "CAUTARE_ETAJ" of Entity "CAUTARE_ETAJ"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCREMENTARE_DECREMENTARE.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\INCREMENTARE_DECREMENTARE.vhd
+# Compile Entity "INCREMENTARE_DECREMENTARE"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/DIVIZOR_DE_FECVENTA.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\DIVIZOR_DE_FECVENTA.vhd
+# Compile Entity "DIVIZOR_DE_FRECVENTA"
+# Compile Architecture "DIVIZOR_DE_FRECVENTA" of Entity "DIVIZOR_DE_FRECVENTA"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/Bistabil_JK.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\Bistabil_JK.vhd
+# Compile Entity "Bistabil_JK"
+# Compile Architecture "Bistabil_JK" of Entity "Bistabil_JK"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# Design: 15:02, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Intarziere\Intarziere\Intarziere.adf"
+# Design: 15:02, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\memorie_ram\memorie_ram\memorie_ram.adf"
+# Design: Design numarator_usi already active.
+# Design: 15:04, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\MUX_2_LA_1\MUX_2_LA_1\MUX2_1.adf"
+# Design: 15:04, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\selectie_viteza\selectie_viteza\selectie_viteza.adf"
+# Design: 15:04, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\SENZOR\SENZOR\SENZOR.adf"
+# Design: 15:05, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\sumator\sumator_complet\sumator_complet.adf"
+# Design: 15:05, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\unitate_de_comanda\unitate_de_comanda\unitate_de_comanda.adf"
+# Design: 15:05, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\unitate_de_directie\unitate_de_directie\unitate_de_directie.adf"
+acom $DSN/src/memorie_ram.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\memorie_ram.vhd
+# Compile Entity "memorie_RAM"
+# Compile Architecture "behavioral" of Entity "memorie_RAM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/numarator_intarziere.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\numarator_intarziere.vhd
+# Compile Entity "INTARZIERE"
+# Compile Architecture "INTARZIERE" of Entity "INTARZIERE"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/MUX_2_LA_1.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\MUX_2_LA_1.vhd
+# Compile Entity "MUX_2_LA_1"
+# Compile Architecture "MUX_2_LA_1" of Entity "MUX_2_LA_1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/selectie_viteza.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\selectie_viteza.vhd
+# Compile Entity "sel_viteza"
+# Compile Architecture "behavioral" of Entity "sel_viteza"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/sumator_complet.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\sumator_complet.vhd
+# Compile Entity "sumator_1_BIT"
+# Compile Architecture "behavioral" of Entity "sumator_1_BIT"
+# Compile Entity "sumator_4"
+# Compile Architecture "behavioral" of Entity "sumator_4"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/unitate_de_comanda.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\unitate_de_comanda.vhd
+# Compile Entity "Unitate_de_comanda"
+# Compile Architecture "Unitate_de_comanda" of Entity "Unitate_de_comanda"
+# Error: COMP96_0078: unitate_de_comanda.vhd : (73, 8): Unknown identifier "stare_urmataoare".
+# Error: COMP96_0133: unitate_de_comanda.vhd : (73, 8): Cannot find object declaration.
+# Error: COMP96_0303: unitate_de_comanda.vhd : (75, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0303: unitate_de_comanda.vhd : (90, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0301: unitate_de_comanda.vhd : (27, 4): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/unitate_de_comanda.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\unitate_de_comanda.vhd
+# Compile Entity "Unitate_de_comanda"
+# Entity `Unitate_de_comanda' has been skipped - no difference detected.
+# Compile Architecture "Unitate_de_comanda" of Entity "Unitate_de_comanda"
+# Error: COMP96_0078: unitate_de_comanda.vhd : (73, 8): Unknown identifier "stare_urmatoare".
+# Error: COMP96_0133: unitate_de_comanda.vhd : (73, 8): Cannot find object declaration.
+# Error: COMP96_0303: unitate_de_comanda.vhd : (75, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0303: unitate_de_comanda.vhd : (90, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0301: unitate_de_comanda.vhd : (27, 4): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/unitate_de_comanda.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\unitate_de_comanda.vhd
+# Compile Entity "Unitate_de_comanda"
+# Entity `Unitate_de_comanda' has been skipped - no difference detected.
+# Compile Architecture "Unitate_de_comanda" of Entity "Unitate_de_comanda"
+# Error: COMP96_0303: unitate_de_comanda.vhd : (75, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0303: unitate_de_comanda.vhd : (90, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0301: unitate_de_comanda.vhd : (27, 4): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/unitate_de_comanda.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\unitate_de_comanda.vhd
+# Compile Entity "Unitate_de_comanda"
+# Entity `Unitate_de_comanda' has been skipped - no difference detected.
+# Compile Architecture "Unitate_de_comanda" of Entity "Unitate_de_comanda"
+# Error: COMP96_0303: unitate_de_comanda.vhd : (80, 9): Each choice in a case statement may only be represented once.
+# Error: COMP96_0301: unitate_de_comanda.vhd : (27, 4): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/unitate_de_comanda.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\unitate_de_comanda.vhd
+# Compile Entity "Unitate_de_comanda"
+# Entity `Unitate_de_comanda' has been skipped - no difference detected.
+# Compile Architecture "Unitate_de_comanda" of Entity "Unitate_de_comanda"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/SENZOR.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\SENZOR.vhd
+# Compile Entity "SENZORI"
+# Compile Architecture "SENZORI" of Entity "SENZORI"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/NUMARATOR_BIDIRECTIONAL.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\NUMARATOR_BIDIRECTIONAL.vhd
+# Compile Entity "NUMARATOR_BIDIRECT"
+# Entity `NUMARATOR_BIDIRECT' has been skipped - no difference detected.
+# Compile Architecture "NUMARATOR_BIDIRECT" of Entity "NUMARATOR_BIDIRECT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/UNITATE_DE_DIRECTIE.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\UNITATE_DE_DIRECTIE.vhd
+# Compile Entity "UNITATE_DE_DIRECTIE"
+# Compile Architecture "UNITATE_DE_DIRECTIE" of Entity "UNITATE_DE_DIRECTIE"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/Bistabil_JK.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\Bistabil_JK.vhd
+# Compile Entity "Bistabil_JK"
+# Entity `Bistabil_JK' has been skipped - no difference detected.
+# Compile Architecture "Bistabil_JK" of Entity "Bistabil_JK"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CAUTARE_ETAJ.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\CAUTARE_ETAJ.vhd
+# Compile Entity "CAUTARE_ETAJ"
+# Entity `CAUTARE_ETAJ' has been skipped - no difference detected.
+# Compile Architecture "CAUTARE_ETAJ" of Entity "CAUTARE_ETAJ"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/memorie_ram.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\memorie_ram.vhd
+# Compile Entity "memorie_RAM"
+# Entity `memorie_RAM' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "memorie_RAM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/numarator_intarziere.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\numarator_intarziere.vhd
+# Compile Entity "INTARZIERE"
+# Entity `INTARZIERE' has been skipped - no difference detected.
+# Compile Architecture "INTARZIERE" of Entity "INTARZIERE"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCREMENTARE_DECREMENTARE.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\INCREMENTARE_DECREMENTARE.vhd
+# Compile Entity "INCREMENTARE_DECREMENTARE"
+# Entity `INCREMENTARE_DECREMENTARE' has been skipped - no difference detected.
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/DIVIZOR_DE_FECVENTA.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\DIVIZOR_DE_FECVENTA.vhd
+# Compile Entity "DIVIZOR_DE_FRECVENTA"
+# Entity `DIVIZOR_DE_FRECVENTA' has been skipped - no difference detected.
+# Compile Architecture "DIVIZOR_DE_FRECVENTA" of Entity "DIVIZOR_DE_FRECVENTA"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/MUX_2_LA_1.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\MUX_2_LA_1.vhd
+# Compile Entity "MUX_2_LA_1"
+# Entity `MUX_2_LA_1' has been skipped - no difference detected.
+# Compile Architecture "MUX_2_LA_1" of Entity "MUX_2_LA_1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/selectie_viteza.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\selectie_viteza.vhd
+# Compile Entity "sel_viteza"
+# Entity `sel_viteza' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "sel_viteza"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/sumator_complet.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\numarator_usi\src\sumator_complet.vhd
+# Compile Entity "sumator_1_BIT"
+# Entity `sumator_1_BIT' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "sumator_1_BIT"
+# Compile Entity "sumator_4"
+# Entity `sumator_4' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "sumator_4"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# Design: 15:10, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\unitatea_de_afisare\unitatea_de_afisarea\unitatea_de_afisarea.adf"
+# Design: 15:10, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Unitatea_de_decizie\Unitate de decizie\Unitate de decizie.adf"
+# Design: 15:10, sâmbãtã, 21 mai 2022
+# Design: Opening design "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\unitatea_de_intarziere\unitatea_de_intarziere\unitatea_de_intarziere.adf"

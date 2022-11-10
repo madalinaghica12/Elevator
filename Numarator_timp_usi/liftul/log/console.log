@@ -1,0 +1,57 @@
+acom -reorder $DSN/src/lift.vhd
+# Compile with File Reorder...
+# File: c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd
+# Compile Entity "LIFT"
+# Compile Architecture "LIFT" of Entity "LIFT"
+# Warning: ELAB1_0026: lift.vhd : (170, 0): There is no default binding for component "Unitate_de_comanda".(No entity named "Unitate_de_comanda" was found).
+# Warning: ELAB1_0026: lift.vhd : (182, 0): There is no default binding for component "UNITATE_DE_DECIZIE".(No entity named "UNITATE_DE_DECIZIE" was found).
+# Warning: ELAB1_0026: lift.vhd : (184, 0): There is no default binding for component "unitatea_de_memorare".(No entity named "unitatea_de_memorare" was found).
+# Warning: ELAB1_0026: lift.vhd : (186, 0): There is no default binding for component "CAUTARE_ETAJ".(No entity named "CAUTARE_ETAJ" was found).
+# Warning: ELAB1_0026: lift.vhd : (188, 0): There is no default binding for component "INCREMENTARE_DECREMENTARE".(No entity named "INCREMENTARE_DECREMENTARE" was found).
+# Warning: ELAB1_0026: lift.vhd : (189, 0): There is no default binding for component "UNITATE_DE_DIRECTIE".(No entity named "UNITATE_DE_DIRECTIE" was found).
+# Warning: ELAB1_0026: lift.vhd : (190, 0): There is no default binding for component "TIMP".(No entity named "TIMP" was found).
+# Warning: ELAB1_0026: lift.vhd : (191, 0): There is no default binding for component "SENZORI".(No entity named "SENZORI" was found).
+# Warning: ELAB1_0026: lift.vhd : (192, 0): There is no default binding for component "UNITATE_DE_INTARZIERE".(No entity named "UNITATE_DE_INTARZIERE" was found).
+# Warning: ELAB1_0026: lift.vhd : (193, 0): There is no default binding for component "DIVIZOR_DE_FRECVENTA".(No entity named "DIVIZOR_DE_FRECVENTA" was found).
+# Warning: ELAB1_0026: lift.vhd : (194, 0): There is no default binding for component "DIVIZOR".(No entity named "DIVIZOR" was found).
+# Warning: ELAB1_0026: lift.vhd : (195, 0): There is no default binding for component "sel_viteza".(No entity named "sel_viteza" was found).
+# Warning: ELAB1_0026: lift.vhd : (196, 0): There is no default binding for component "AFISOR".(No entity named "AFISOR" was found).
+# Top-Level unit detected
+# Entity  =>   LIFT
+# Compile success 0 Errors 13 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: Component C1 : Unitate_de_comanda not bound.
+# ELBREAD: Warning: Component C2 : UNITATE_DE_DECIZIE not bound.
+# ELBREAD: Warning: Component C3 : unitatea_de_memorare not bound.
+# ELBREAD: Warning: Component C4 : CAUTARE_ETAJ not bound.
+# ELBREAD: Warning: Component C5 : INCREMENTARE_DECREMENTARE not bound.
+# ELBREAD: Warning: Component C6 : UNITATE_DE_DIRECTIE not bound.
+# ELBREAD: Warning: Component C7 : TIMP not bound.
+# ELBREAD: Warning: Component C8 : SENZORI not bound.
+# ELBREAD: Warning: Component C9 : UNITATE_DE_INTARZIERE not bound.
+# ELBREAD: Warning: Component C10 : DIVIZOR_DE_FRECVENTA not bound.
+# ELBREAD: Warning: Component C11 : DIVIZOR not bound.
+# ELBREAD: Warning: Component C12 : sel_viteza not bound.
+# ELBREAD: Warning: Component C13 : AFISOR not bound.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design: Error: Cannot rename file "lift.vhd" to "ift.vhd"
+acom $DSN/src/lift.vhd
+# Compile...
+# File: c:\Users\ghica\OneDrive\Desktop\Coduri vhdl\Numarator_timp_usi\liftul\src\lift.vhd
+# Compile Entity "LIFT"
+# Entity `LIFT' has been skipped - no difference detected.
+# Compile Architecture "LIFT" of Entity "LIFT"
+# Warning: ELAB1_0026: lift.vhd : (170, 0): There is no default binding for component "Unitate_de_comanda".(No entity named "Unitate_de_comanda" was found).
+# Warning: ELAB1_0026: lift.vhd : (182, 0): There is no default binding for component "UNITATE_DE_DECIZIE".(No entity named "UNITATE_DE_DECIZIE" was found).
+# Warning: ELAB1_0026: lift.vhd : (184, 0): There is no default binding for component "unitatea_de_memorare".(No entity named "unitatea_de_memorare" was found).
+# Warning: ELAB1_0026: lift.vhd : (186, 0): There is no default binding for component "CAUTARE_ETAJ".(No entity named "CAUTARE_ETAJ" was found).
+# Warning: ELAB1_0026: lift.vhd : (188, 0): There is no default binding for component "INCREMENTARE_DECREMENTARE".(No entity named "INCREMENTARE_DECREMENTARE" was found).
+# Warning: ELAB1_0026: lift.vhd : (189, 0): There is no default binding for component "UNITATE_DE_DIRECTIE".(No entity named "UNITATE_DE_DIRECTIE" was found).
+# Warning: ELAB1_0026: lift.vhd : (190, 0): There is no default binding for component "TIMP".(No entity named "TIMP" was found).
+# Warning: ELAB1_0026: lift.vhd : (191, 0): There is no default binding for component "SENZORI".(No entity named "SENZORI" was found).
+# Warning: ELAB1_0026: lift.vhd : (192, 0): There is no default binding for component "UNITATE_DE_INTARZIERE".(No entity named "UNITATE_DE_INTARZIERE" was found).
+# Warning: ELAB1_0026: lift.vhd : (193, 0): There is no default binding for component "DIVIZOR_DE_FRECVENTA".(No entity named "DIVIZOR_DE_FRECVENTA" was found).
+# Warning: ELAB1_0026: lift.vhd : (194, 0): There is no default binding for component "DIVIZOR".(No entity named "DIVIZOR" was found).
+# Warning: ELAB1_0026: lift.vhd : (195, 0): There is no default binding for component "sel_viteza".(No entity named "sel_viteza" was found).
+# Warning: ELAB1_0026: lift.vhd : (196, 0): There is no default binding for component "AFISOR".(No entity named "AFISOR" was found).
+# Compile success 0 Errors 13 Warnings  Analysis time :  0.0 [s]
