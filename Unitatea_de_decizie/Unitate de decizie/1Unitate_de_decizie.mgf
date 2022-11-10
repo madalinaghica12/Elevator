@@ -1,0 +1,34 @@
+V 000059 55 1793          1651778320717 UNITATE_DE_DECIZIE
+(_unit VHDL (unitate_de_decizie 0 5 (unitate_de_decizie 0 12 ))
+  (_version v33)
+  (_time 1651778320717 2022.05.05 22:18:40)
+  (_source (\./src/Unitate_de_decizie.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651778320705)
+    (_use )
+  )
+  (_object
+    (_type (_internal ~std_logic_vector{7~downto~0}~12 0 6 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 7)(i 0))))))
+    (_port (_internal INTRARE ~std_logic_vector{7~downto~0}~12 0 6 (_entity (_in ))))
+    (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 7 (_entity (_in )(_active)(_lastactive)(_event)(_lastevent)(_edge))))
+    (_port (_internal RESET ~extieee.std_logic_1164.std_logic 0 8 (_entity (_in ))))
+    (_type (_internal ~std_logic_vector{3~downto~0}~12 0 9 (_array ~extieee.std_logic_1164.std_logic ((_downto (i 3)(i 0))))))
+    (_port (_internal IESIRE ~std_logic_vector{3~downto~0}~12 0 9 (_entity (_out ))))
+    (_type (_internal TIP_STARE 0 13 (_enum s0 s1 s2 s3 s4 s5 s6 s7 s8 s9 s10 s11 s12 s13 s14 s15 suma (_to (i 0)(i 16)))))
+    (_signal (_internal STARE_ACTUALA TIP_STARE 0 14 (_architecture (_uni ))))
+    (_signal (_internal STAREA_URMATOARE TIP_STARE 0 14 (_architecture (_uni ))))
+    (_process
+      (line__18(_architecture 0 0 18 (_process (_simple)(_target(4))(_sensitivity(2)(1))(_read(5)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+    (_type (_external ~extieee.std_logic_1164.std_logic_vector (ieee std_logic_1164 std_logic_vector)))
+  )
+  (_model . UNITATE_DE_DECIZIE 1 -1
+  )
+)

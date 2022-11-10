@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\unitatea_de_afisare\library.cfg"  -j "c:\My_Designs\unitatea_de_afisare\unitatea_de_afisarea\projlib.cfg"  -d "c:\My_Designs\unitatea_de_afisare\unitatea_de_afisarea\compile\"  -work unitatea_de_afisarea -dbg -e 100 "c:\My_Designs\unitatea_de_afisare\unitatea_de_afisarea\src\unitatea_de_afisare.vhd" 

@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=sumator_complet
+
+[Library]
+sumator_complet=.\sumator_complet.lib
+
+[$LibMap$]
+sumator_complet=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/sumator_complet.vhd=-1
+
+[Files.Data]
+.\src\sumator_complet.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=sumator_4|behavioral|0 
+ShowHide=ShowTopLevel
+Selected=

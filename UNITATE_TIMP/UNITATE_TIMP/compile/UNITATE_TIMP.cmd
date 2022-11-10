@@ -1,0 +1,1 @@
+-w -s "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\library.cfg"  -j "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\projlib.cfg"  -d "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\compile\"  -work UNITATE_TIMP -dbg -e 100 "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd" 

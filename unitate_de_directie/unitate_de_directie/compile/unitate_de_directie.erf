@@ -1,0 +1,6 @@
+MESSAGE "File: c:\My_Designs\unitate_de_directie\unitate_de_directie\src\UNITATE_DE_DIRECTIE.vhd" 
+MESSAGE "Compile Entity "UNITATE_DE_DIRECTIE"" 
+MESSAGE "Entity `UNITATE_DE_DIRECTIE' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "UNITATE_DE_DIRECTIE" of Entity "UNITATE_DE_DIRECTIE"" 
+WARNING ELAB1_0026: "There is no default binding for component "BISTABIL_JK".(No entity named "BISTABIL_JK" was found)." "c:\My_Designs\unitate_de_directie\unitate_de_directie\src\UNITATE_DE_DIRECTIE.vhd" 26 0
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [s]" 

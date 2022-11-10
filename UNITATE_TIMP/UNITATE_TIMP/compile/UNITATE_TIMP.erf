@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd" 
+MESSAGE "Compile Entity "TIMP"" 
+MESSAGE "Entity `TIMP' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "TIMP" of Entity "TIMP"" 
+WARNING ELAB1_0026: "There is no default binding for component "Numarator_Usi_Deschise".(No entity named "Numarator_Usi_Deschise" was found)." "C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd" 19 0
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [s]" 

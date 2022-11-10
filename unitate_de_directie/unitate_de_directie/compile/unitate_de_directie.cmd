@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\unitate_de_directie\library.cfg"  -j "c:\My_Designs\unitate_de_directie\unitate_de_directie\projlib.cfg"  -d "c:\My_Designs\unitate_de_directie\unitate_de_directie\compile\"  -work unitate_de_directie -dbg -e 100 "c:\My_Designs\unitate_de_directie\unitate_de_directie\src\UNITATE_DE_DIRECTIE.vhd" 

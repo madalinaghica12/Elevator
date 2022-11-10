@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\unitate_de_comanda\library.cfg"  -j "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\projlib.cfg"  -d "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\compile\"  -work unitate_de_comanda -o2 -e 100 "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 

@@ -1,0 +1,17 @@
+timestamp=1651767019579
+
+[unitate_de_comanda]
+R=./src/unitate_de_comanda.vhd|4
+V=0*1135
+
+[~A]
+./src/unitate_de_comanda.vhd~Unitate_de_comanda=0*0*333
+ModifyID=3
+Version=73
+
+[~MFT]
+0=4|0unitate_de_comanda.mgf|1135|0
+
+[~U]
+unitate_de_comanda=Unitate_de_comanda 11|0*420|0*663
+

@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+unitatea_de_afisarea=.\unitatea_de_afisarea\unitatea_de_afisarea.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+unitatea_de_afisarea=1

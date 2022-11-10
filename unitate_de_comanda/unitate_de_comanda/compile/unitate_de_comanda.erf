@@ -1,0 +1,13 @@
+MESSAGE "File: c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 
+MESSAGE "Compile Entity "Unitate_de_comanda"" 
+MESSAGE "Entity `Unitate_de_comanda' has been skipped - no difference detected." 
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage and profiler will not be available." 
+MESSAGE "Compile Architecture "Unitate_de_comanda" of Entity "Unitate_de_comanda"" 
+ERROR COMP96_0078: "Unknown identifier "starea_urmatotoareare"." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 31 8
+ERROR COMP96_0133: "Cannot find object declaration." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 31 8
+ERROR COMP96_0078: "Unknown identifier "stare_urmataoare"." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 73 8
+ERROR COMP96_0133: "Cannot find object declaration." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 73 8
+ERROR COMP96_0303: "Each choice in a case statement may only be represented once." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 75 9
+ERROR COMP96_0303: "Each choice in a case statement may only be represented once." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 90 9
+ERROR COMP96_0301: "The choice OTHERS must be present when all alternatives are not covered." "c:\My_Designs\unitate_de_comanda\unitate_de_comanda\src\unitate_de_comanda.vhd" 27 4
+FAILURE "Compile failure 7 Errors 0 Warnings  Analysis time :  0.0 [s]" 

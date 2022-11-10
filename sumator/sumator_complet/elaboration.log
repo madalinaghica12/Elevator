@@ -1,0 +1,16 @@
+elbread.dll ver. 1.0.5.365 Fri May 20 09:01:01 2022
+
+
+-----------------------------------------------
+Entity         | Architecture | Library      
+-----------------------------------------------
+sumator_4      | behavioral   | sumator_complet
+sumator_1_bit  | behavioral   | sumator_complet
+-----------------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+std_logic_1164  | ieee
+-------------------------

@@ -1,0 +1,104 @@
+I 000060 55 2254          1651942417120 UNITATE_DE_DIRECTIE
+(_unit VHDL (unitate_de_directie 0 4 (unitate_de_directie 0 12 ))
+  (_version v33)
+  (_time 1651942417119 2022.05.07 19:53:37)
+  (_source (\./src/UNITATE_DE_DIRECTIE.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651942395663)
+    (_use )
+  )
+  (_component
+    (BISTABIL_JK
+      (_object
+        (_port (_internal J ~extieee.std_logic_1164.std_logic 0 15 (_entity (_in ))))
+        (_port (_internal K ~extieee.std_logic_1164.std_logic 0 16 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 17 (_entity (_in ))))
+        (_port (_internal Q ~extieee.std_logic_1164.std_logic 0 18 (_entity (_out ))))
+        (_port (_internal BQ ~extieee.std_logic_1164.std_logic 0 19 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation BISTABIL 0 26 (_component BISTABIL_JK )
+    (_port
+      ((J)(J_DIRECTIE))
+      ((K)(K_DIRECTIE))
+      ((CLOCK)(CLOCK))
+      ((Q)(DIRECTIE))
+      ((BQ)(N_DIRECTIE))
+    )
+  )
+  (_object
+    (_port (_internal SCHIMBARE_DIRECTIE ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal RESET ~extieee.std_logic_1164.std_logic 0 7 (_entity (_in ))))
+    (_port (_internal DIRECTIE ~extieee.std_logic_1164.std_logic 0 8 (_entity (_out ))))
+    (_port (_internal N_DIRECTIE ~extieee.std_logic_1164.std_logic 0 9 (_entity (_out ))))
+    (_signal (_internal J_DIRECTIE ~extieee.std_logic_1164.std_logic 0 22 (_architecture (_uni ))))
+    (_signal (_internal K_DIRECTIE ~extieee.std_logic_1164.std_logic 0 22 (_architecture (_uni ))))
+    (_process
+      (line__24(_architecture 0 0 24 (_assignment (_simple)(_alias((J_DIRECTIE)(SCHIMBARE_DIRECTIE)))(_target(5))(_sensitivity(0)))))
+      (line__25(_architecture 1 0 25 (_assignment (_simple)(_target(6))(_sensitivity(0)(2)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . UNITATE_DE_DIRECTIE 2 -1
+  )
+)
+V 000060 55 2254          1651942438716 UNITATE_DE_DIRECTIE
+(_unit VHDL (unitate_de_directie 0 4 (unitate_de_directie 0 12 ))
+  (_version v33)
+  (_time 1651942438715 2022.05.07 19:53:58)
+  (_source (\./src/UNITATE_DE_DIRECTIE.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651942395663)
+    (_use )
+  )
+  (_component
+    (BISTABIL_JK
+      (_object
+        (_port (_internal J ~extieee.std_logic_1164.std_logic 0 15 (_entity (_in ))))
+        (_port (_internal K ~extieee.std_logic_1164.std_logic 0 16 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 17 (_entity (_in ))))
+        (_port (_internal Q ~extieee.std_logic_1164.std_logic 0 18 (_entity (_out ))))
+        (_port (_internal BQ ~extieee.std_logic_1164.std_logic 0 19 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation BISTABIL 0 26 (_component BISTABIL_JK )
+    (_port
+      ((J)(J_DIRECTIE))
+      ((K)(K_DIRECTIE))
+      ((CLOCK)(CLOCK))
+      ((Q)(DIRECTIE))
+      ((BQ)(N_DIRECTIE))
+    )
+  )
+  (_object
+    (_port (_internal SCHIMBARE_DIRECTIE ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal RESET ~extieee.std_logic_1164.std_logic 0 7 (_entity (_in ))))
+    (_port (_internal DIRECTIE ~extieee.std_logic_1164.std_logic 0 8 (_entity (_out ))))
+    (_port (_internal N_DIRECTIE ~extieee.std_logic_1164.std_logic 0 9 (_entity (_out ))))
+    (_signal (_internal J_DIRECTIE ~extieee.std_logic_1164.std_logic 0 22 (_architecture (_uni ))))
+    (_signal (_internal K_DIRECTIE ~extieee.std_logic_1164.std_logic 0 22 (_architecture (_uni ))))
+    (_process
+      (line__24(_architecture 0 0 24 (_assignment (_simple)(_alias((J_DIRECTIE)(SCHIMBARE_DIRECTIE)))(_target(5))(_sensitivity(0)))))
+      (line__25(_architecture 1 0 25 (_assignment (_simple)(_target(6))(_sensitivity(0)(2)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . UNITATE_DE_DIRECTIE 2 -1
+  )
+)

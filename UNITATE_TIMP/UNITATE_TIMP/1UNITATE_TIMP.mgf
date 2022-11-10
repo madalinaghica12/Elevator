@@ -1,0 +1,190 @@
+I 000045 55 1351          1652478610775 TIMP
+(_unit VHDL (timp 0 4 (timp 0 10 ))
+  (_version v33)
+  (_time 1652478610774 2022.05.14 00:50:10)
+  (_source (\./src/UNITATE_TIMP.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1652478578528)
+    (_use )
+  )
+  (_component
+    (Numarator_timp_usi
+      (_object
+        (_port (_internal INCEPUT ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 14 (_entity (_in ))))
+        (_port (_internal IESIRE ~extieee.std_logic_1164.std_logic 0 15 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation NUMARATOR 0 19 (_component Numarator_timp_usi )
+    (_port
+      ((INCEPUT)(iNCEPUT_TIMP))
+      ((CLOCK)(CLK))
+      ((IESIRE)(SFARSIT_TIMP))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT_TIMP ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT_TIMP ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)
+I 000045 55 1351          1653129865042 TIMP
+(_unit VHDL (timp 0 4 (timp 0 10 ))
+  (_version v33)
+  (_time 1653129865042 2022.05.21 13:44:25)
+  (_source (\./src/UNITATE_TIMP.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1652478578528)
+    (_use )
+  )
+  (_component
+    (Numarator_timp_usi
+      (_object
+        (_port (_internal INCEPUT ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 14 (_entity (_in ))))
+        (_port (_internal IESIRE ~extieee.std_logic_1164.std_logic 0 15 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation NUMARATOR 0 19 (_component Numarator_timp_usi )
+    (_port
+      ((INCEPUT)(iNCEPUT_TIMP))
+      ((CLOCK)(CLK))
+      ((IESIRE)(SFARSIT_TIMP))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT_TIMP ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT_TIMP ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)
+I 000045 55 1351          1653133418781 TIMP
+(_unit VHDL (timp 0 4 (timp 0 10 ))
+  (_version v33)
+  (_time 1653133418780 2022.05.21 14:43:38)
+  (_source (\./src/UNITATE_TIMP.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1652478578528)
+    (_use )
+  )
+  (_component
+    (Numarator_timp_usi
+      (_object
+        (_port (_internal INCEPUT ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 14 (_entity (_in ))))
+        (_port (_internal IESIRE ~extieee.std_logic_1164.std_logic 0 15 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation NUMARATOR 0 19 (_component Numarator_timp_usi )
+    (_port
+      ((INCEPUT)(iNCEPUT_TIMP))
+      ((CLOCK)(CLK))
+      ((IESIRE)(SFARSIT_TIMP))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT_TIMP ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT_TIMP ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)
+I 000045 55 1349          1653133571954 TIMP
+(_unit VHDL (timp 0 4 (timp 0 10 ))
+  (_version v33)
+  (_time 1653133571954 2022.05.21 14:46:11)
+  (_source (\./src/UNITATE_TIMP.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1652478578528)
+    (_use )
+  )
+  (_component
+    (Numarator_Usi_Deschise
+      (_object
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal INTRARE ~extieee.std_logic_1164.std_logic 0 14 (_entity (_in ))))
+        (_port (_internal Q ~extieee.std_logic_1164.std_logic 0 15 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation NUMARATOR 0 19 (_component Numarator_Usi_Deschise )
+    (_port
+      ((CLOCK)(iNCEPUT_TIMP))
+      ((INTRARE)(CLK))
+      ((Q)(SFARSIT_TIMP))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT_TIMP ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT_TIMP ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)
+V 000045 55 1349          1653133646628 TIMP
+(_unit VHDL (timp 0 4 (timp 0 10 ))
+  (_version v33)
+  (_time 1653133646627 2022.05.21 14:47:26)
+  (_source (\./src/UNITATE_TIMP.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1652478578528)
+    (_use )
+  )
+  (_component
+    (Numarator_Usi_Deschise
+      (_object
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal INTRARE ~extieee.std_logic_1164.std_logic 0 14 (_entity (_in ))))
+        (_port (_internal Q ~extieee.std_logic_1164.std_logic 0 15 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation NUMARATOR 0 19 (_component Numarator_Usi_Deschise )
+    (_port
+      ((CLOCK)(iNCEPUT_TIMP))
+      ((INTRARE)(CLK))
+      ((Q)(SFARSIT_TIMP))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT_TIMP ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal CLK ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT_TIMP ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)

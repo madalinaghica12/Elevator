@@ -1,0 +1,51 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=unitate_de_comanda
+
+[Library]
+unitate_de_comanda=.\unitate_de_comanda.lib
+
+[$LibMap$]
+unitate_de_comanda=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+CDebugWatchList=
+
+[IMPLEMENTATION]
+UCF=
+
+[LocalVhdlSets]
+ReorderOnFirstRebuild=1
+EnableVHDL87Key=1
+NetlistCompilation=0
+ElaborationAfterCompilation=0
+MaxErrorsKey=100
+CompileWithDebug=0
+OptimizationLevel=2
+
+[Files]
+/unitate_de_comanda.vhd=-1
+/uniateaDeComanda.vhd=-1
+
+[Files.Data]
+.\src\unitate_de_comanda.vhd=VHDL Source Code
+.\src\uniateaDeComanda.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

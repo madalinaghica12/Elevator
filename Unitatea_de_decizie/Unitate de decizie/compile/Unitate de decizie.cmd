@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\Unitatea_de_decizie\library.cfg"  -j "c:\My_Designs\Unitatea_de_decizie\Unitate de decizie\projlib.cfg"  -d "c:\My_Designs\Unitatea_de_decizie\Unitate de decizie\compile\"  -work Unitate_de_decizie -dbg -e 100 -o "c:\My_Designs\Unitatea_de_decizie\Unitate de decizie\src\Unitate_de_decizie.vhd" 

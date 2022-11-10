@@ -1,0 +1,33 @@
+acom $DSN/src/UNITATE_TIMP.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd
+# Compile Entity "TIMP"
+# Entity `TIMP' has been skipped - no difference detected.
+# Compile Architecture "TIMP" of Entity "TIMP"
+# Warning: ELAB1_0026: UNITATE_TIMP.vhd : (19, 0): There is no default binding for component "Numarator_timp_usi".(No entity named "Numarator_timp_usi" was found).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/UNITATE_TIMP.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd
+# Compile Entity "TIMP"
+# Entity `TIMP' has been skipped - no difference detected.
+# Compile Architecture "TIMP" of Entity "TIMP"
+# Error: COMP96_0078: UNITATE_TIMP.vhd : (19, 14): Unknown identifier "Numarator_timp_usi".
+# Error: COMP96_0134: UNITATE_TIMP.vhd : (19, 14): Cannot find component declaration.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/UNITATE_TIMP.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd
+# Compile Entity "TIMP"
+# Entity `TIMP' has been skipped - no difference detected.
+# Compile Architecture "TIMP" of Entity "TIMP"
+# Warning: ELAB1_0026: UNITATE_TIMP.vhd : (19, 0): There is no default binding for component "Numarator_Usi_Deschise".(No entity named "Numarator_Usi_Deschise" was found).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/UNITATE_TIMP.vhd
+# Compile...
+# File: C:\Users\ghica\OneDrive\Desktop\Coduri vhdl\UNITATE_TIMP\UNITATE_TIMP\src\UNITATE_TIMP.vhd
+# Compile Entity "TIMP"
+# Entity `TIMP' has been skipped - no difference detected.
+# Compile Architecture "TIMP" of Entity "TIMP"
+# Warning: ELAB1_0026: UNITATE_TIMP.vhd : (19, 0): There is no default binding for component "Numarator_Usi_Deschise".(No entity named "Numarator_Usi_Deschise" was found).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [s]

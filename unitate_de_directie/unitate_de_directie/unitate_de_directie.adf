@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=unitate_de_directie
+
+[Library]
+unitate_de_directie=.\unitate_de_directie.lib
+
+[$LibMap$]
+unitate_de_directie=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/UNITATE_DE_DIRECTIE.vhd=-1
+
+[Files.Data]
+.\src\UNITATE_DE_DIRECTIE.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

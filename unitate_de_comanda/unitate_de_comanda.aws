@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+unitate_de_comanda=.\unitate_de_comanda\unitate_de_comanda.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+unitate_de_comanda=1

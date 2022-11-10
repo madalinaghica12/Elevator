@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\sumator\library.cfg"  -j "c:\My_Designs\sumator\sumator_complet\projlib.cfg"  -d "c:\My_Designs\sumator\sumator_complet\compile\"  -work sumator_complet -dbg -e 100 -o "c:\My_Designs\sumator\sumator_complet\src\sumator_complet.vhd" 

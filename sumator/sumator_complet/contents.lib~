@@ -1,0 +1,5 @@
+13
+~E 1 "./src/sumator_complet.vhd" 7 sumator_1_bit
+~A 1 "./src/sumator_complet.vhd" 18 behavioral
+~E 1 "./src/sumator_complet.vhd" 44 sumator_4
+~A 1 "./src/sumator_complet.vhd" 59 behavioral

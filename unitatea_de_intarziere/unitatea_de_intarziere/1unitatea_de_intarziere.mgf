@@ -1,0 +1,114 @@
+I 000062 55 1362          1651933190786 UNITATE_DE_INTARZIERE
+(_unit VHDL (unitate_de_intarziere 0 4 (unitate_de_intarziere 0 10 ))
+  (_version v33)
+  (_time 1651933190785 2022.05.07 17:19:50)
+  (_source (\./src/Unitate_de_intarziere.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651933190781)
+    (_use )
+  )
+  (_component
+    (INTARZIERE
+      (_object
+        (_port (_internal INTRARE ~extieee.std_logic_1164.std_logic 0 12 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal IESIRE ~extieee.std_logic_1164.std_logic 0 14 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation INTARZIEREA 0 18 (_component INTARZIERE )
+    (_port
+      ((INTRARE)(INCEPUT))
+      ((CLOCK)(TIMP))
+      ((IESIRE)(SFARSIT))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal TIMP ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)
+I 000062 55 1354          1651933207503 UNITATE_DE_INTARZIERE
+(_unit VHDL (unitate_de_intarziere 0 4 (unitate_de_intarziere 0 10 ))
+  (_version v33)
+  (_time 1651933207503 2022.05.07 17:20:07)
+  (_source (\./src/Unitate_de_intarziere.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651933190781)
+    (_use )
+  )
+  (_component
+    (INTARZIERE
+      (_object
+        (_port (_internal INTRARE ~extieee.std_logic_1164.std_logic 0 12 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal IESIRE ~extieee.std_logic_1164.std_logic 0 14 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation DEL 0 18 (_component INTARZIERE )
+    (_port
+      ((INTRARE)(INCEPUT))
+      ((CLOCK)(TIMP))
+      ((IESIRE)(SFARSIT))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal TIMP ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)
+V 000062 55 1362          1651933243538 UNITATE_DE_INTARZIERE
+(_unit VHDL (unitate_de_intarziere 0 4 (unitate_de_intarziere 0 10 ))
+  (_version v33)
+  (_time 1651933243537 2022.05.07 17:20:43)
+  (_source (\./src/Unitate_de_intarziere.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651933190781)
+    (_use )
+  )
+  (_component
+    (INTARZIERE
+      (_object
+        (_port (_internal INTRARE ~extieee.std_logic_1164.std_logic 0 12 (_entity (_in ))))
+        (_port (_internal CLOCK ~extieee.std_logic_1164.std_logic 0 13 (_entity (_in ))))
+        (_port (_internal IESIRE ~extieee.std_logic_1164.std_logic 0 14 (_entity (_out ))))
+      )
+    )
+  )
+  (_instantiation INTARZIEREA 0 18 (_component INTARZIERE )
+    (_port
+      ((INTRARE)(INCEPUT))
+      ((CLOCK)(TIMP))
+      ((IESIRE)(SFARSIT))
+    )
+  )
+  (_object
+    (_port (_internal INCEPUT ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal TIMP ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal SFARSIT ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+)

@@ -1,0 +1,8 @@
+MESSAGE "File: c:\My_Designs\sumator\sumator_complet\src\sumator_complet.vhd" 
+MESSAGE "Compile Entity "sumator_1_BIT"" 
+MESSAGE "Compile Architecture "behavioral" of Entity "sumator_1_BIT"" 
+MESSAGE "Compile Entity "sumator_4"" 
+MESSAGE "Compile Architecture "behavioral" of Entity "sumator_4"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   sumator_4" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
